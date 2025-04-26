@@ -1,6 +1,6 @@
 {
   "name": "@bat-ai/tools",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "A framework for creating and sharing tools for the BatAI multi-agent system. Enables developers to build and contribute custom tools that can be used by AI agents.",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
